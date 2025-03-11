@@ -28,9 +28,6 @@ For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to trai
 ### 5. RGB-D VSOD
 For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
 
-## ✈ Experiments
-Run `python train_test_eval.py --Training True --Testing True --Evaluation True` for training, testing, and evaluation which is similar to VST.
-
 ## ✈ Citation
 If you use Samba in your research or wish to refer our work, please use the following BibTeX entry.
 ```
