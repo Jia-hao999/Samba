@@ -4,11 +4,12 @@ Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao<br />
 <!--**Approach**: [[arxiv Paper]](https://arxiv.org/pdf/2311.15011.pdf)-->
 
 ## ✈ Overview
-We introduce VSCode, a generalist model with novel 2D prompt learning, to jointly address four SOD tasks and three COD tasks. We utilize VST as the foundation model and introduce 2D prompts within the encoder-decoder architecture to learn domain and task-specific knowledge on two separate dimensions. A prompt discrimination loss helps disentangle peculiarities to benefit model optimization. VSCode outperforms state-of-the-art methods across six tasks on 26 datasets and exhibits zero-shot generalization to unseen tasks by combining 2D prompts, such as RGB-D COD.
-<img src="https://github.com/Sssssuperior/VSCode/blob/main/method.png">
+We are the first to adapt state space models to SOD tasks, and propose a novel unified framework based on the pure Mamba architecture to flexibly handle general SOD tasks. We propose a saliency-guided Mamba block (SGMB), incorporating a spatial neighboring scanning (SNS) algorithm, to maintain spatial continuity of salient patches, thus enhancing feature representation. We propose a context-aware upsampling (CAU) method to promote hierarchical feature alignment and aggregations by modeling contextual dependencies.
+<img src="https://github.com/Jia-hao999/Samba/blob/main/overview.png">
 
 ## ✈ Environmental Setups
-Pytorch $\geq$ 1.6.0, Torchvision $\geq$ 0.7.0
+`PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
+
 
 ## ✈ Data Preparation
 ### 1. RGB SOD & RGB-D SOD
