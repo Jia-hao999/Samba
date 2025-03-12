@@ -10,8 +10,8 @@ We are the first to adapt state space models to SOD tasks, and propose a novel u
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
 
-## ✈ Data Preparation
-<!--### 1. RGB SOD
+<!--## ✈ Data Preparation
+### 1. RGB SOD
 For RGB SOD, we employ the following datasets to train our model: the training set of **DUTS** for `RGB SOD`. 
 For testing the RGB SOD task, we use **DUTS**, **ECSSD**, **HKU-IS**, **PASCAL-S**, **DUT-O**. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
 
