@@ -2,8 +2,8 @@
 Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao<br />
 
 <!--**Approach**: [[arxiv Paper]](https://arxiv.org/pdf/2311.15011.pdf)-->
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/intro_1.png">
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/intro_2.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/intro_1.png" style="width: 80%;"/>
+
 ## ✈ Overview
 We are the first to adapt state space models to SOD tasks, and propose a novel unified framework based on the pure Mamba architecture to flexibly handle general SOD tasks. We propose a saliency-guided Mamba block (SGMB), incorporating a spatial neighboring scanning (SNS) algorithm, to maintain spatial continuity of salient patches, thus enhancing feature representation. We propose a context-aware upsampling (CAU) method to promote hierarchical feature alignment and aggregations by modeling contextual dependencies.
 
@@ -30,6 +30,14 @@ For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to trai
 ### 5. RGB-D VSOD
 For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
 -->
+
+## ✈ Visual Results
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_1.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_2.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_3.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_4.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_5.png">
+
 ## ✈ Citation
 If you use Samba in your research or wish to refer our work, please use the following BibTeX entry.
 ```
