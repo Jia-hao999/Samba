@@ -1,11 +1,12 @@
-# [CVPR 2025] Samba: A Unified Mamba-based Framework for General Salient Object Detection
+# [CVPR 2025-Highlight] Samba: A Unified Mamba-based Framework for General Salient Object Detection
 Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao<br />
 
 <!--**Approach**: [[arxiv Paper]](https://arxiv.org/pdf/2311.15011.pdf)-->
 
 ## ✈ Overview
 We are the first to adapt state space models to SOD tasks, and propose a novel unified framework based on the pure Mamba architecture to flexibly handle general SOD tasks. We propose a saliency-guided Mamba block (SGMB), incorporating a spatial neighboring scanning (SNS) algorithm, to maintain spatial continuity of salient patches, thus enhancing feature representation. We propose a context-aware upsampling (CAU) method to promote hierarchical feature alignment and aggregations by modeling contextual dependencies.
-<img src="https://github.com/Jia-hao999/Samba/blob/main/overview.png">
+
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/overview.png">
 
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
