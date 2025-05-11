@@ -32,11 +32,11 @@ For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_10
 -->
 
 ## ✈ Visual Results
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_1.png">
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_2.png">
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_3.png">
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_4.png">
-<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_5.png">
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_1.png" style="width: 80%;"/>
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_2.png" style="width: 80%;"/>
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_3.png" style="width: 80%;"/>
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_4.png" style="width: 80%;"/>
+<img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_5.png" style="width: 80%;"/>
 
 ## ✈ Citation
 If you use Samba in your research or wish to refer our work, please use the following BibTeX entry.
