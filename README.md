@@ -12,24 +12,27 @@ We are the first to adapt state space models to SOD tasks, and propose a novel u
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
 
-<!--## ✈ Data Preparation
+VMamba-S backbone weights：[[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9h)，提取码：npt9]
+
+Full Samba weights：[[baidu](https://pan.baidu.com/s/15787DVEmW59ftztopv-yMg)，提取码：bkvw]
+
+## ✈ Data Preparation
 ### 1. RGB SOD
 For RGB SOD, we employ the following datasets to train our model: the training set of **DUTS** for `RGB SOD`. 
-For testing the RGB SOD task, we use **DUTS**, **ECSSD**, **HKU-IS**, **PASCAL-S**, **DUT-O**. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
+For testing the RGB SOD task, we use **DUTS**, **ECSSD**, **HKU-IS**, **PASCAL-S**, **DUT-O**.
 
 ### 2. RGB-D SOD
 For RGB-D SOD, we employ the following datasets to train our model concurrently: the training sets of **NJU2K**, **NLPR**, **DUT-RGBD** for `RGB-D SOD`. 
-For testing the RGB SOD task, we use **NJU2K**, **NLPR**, **DUT-RGBD**, **SIP**, **STERE**. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
+For testing the RGB SOD task, we use **NJU2K**, **NLPR**, **DUT-RGBD**, **SIP**, **STERE**.
 
 ### 3. RGB-T SOD
-For RGB-T SOD, we employ the training set of **VT5000** to train our model, and the testing of **VT5000**, **VT821**, **VT1000** are utilized for testing. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
+For RGB-T SOD, we employ the training set of **VT5000** to train our model, and the testing of **VT5000**, **VT821**, **VT1000** are utilized for testing.
 
 ### 4. VSOD
-For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to train our model concurrently, and the testing of **DAVIS**, **DAVSOD**, **FBMS**, **Seg-V2**, **VOS** are utilized for testing. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
+For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to train our model concurrently, and the testing of **DAVIS**, **DAVSOD**, **FBMS**, **Seg-V2**, **VOS** are utilized for testing.
 
 ### 5. RGB-D VSOD
-For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually. You can directly download these datasets from [[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9ht),PIN:m9ht].
--->
+For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually.
 
 ## ✈ Visual Results
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_1.png" style="width: 80%;"/>
