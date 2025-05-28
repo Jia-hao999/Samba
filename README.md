@@ -12,7 +12,7 @@ We are the first to adapt state space models to SOD tasks, and propose a novel u
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
 
-VMamba-S backbone weights：[[baidu](https://pan.baidu.com/s/18PVmR-Z2wwVtTZEr14aVJg?pwd=m9h)，提取码：npt9]
+VMamba-S backbone weights：[[baidu](https://pan.baidu.com/s/199p0p9OfkQXqWVGaxco1lg)，提取码：c5t4]
 
 Full Samba weights：[[baidu](https://pan.baidu.com/s/15787DVEmW59ftztopv-yMg)，提取码：bkvw]
 
