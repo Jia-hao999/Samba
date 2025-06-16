@@ -1,7 +1,5 @@
-# [CVPR 2025-Highlight] Samba: A Unified Mamba-based Framework for General Salient Object Detection
+# [CVPR 2025-Highlight] Samba: A Unified Mamba-based Framework for General Salient Object Detection [[PDF]](https://www.kerenfu.top/sources/CVPR2025_Samba.pdf)
 Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao<br />
-
-<!--**Approach**: [[arxiv Paper]](https://arxiv.org/pdf/2311.15011.pdf)-->
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/intro_1.png" style="width: 80%;"/>
 
 ## ✈ Overview
