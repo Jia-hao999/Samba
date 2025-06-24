@@ -32,6 +32,9 @@ For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to trai
 ### 5. RGB-D VSOD
 For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually.
 
+## ✈ Prediction
+All evaluated saliency maps are put here：[[baidu](https://pan.baidu.com/s/1NA9_ZtA_M4WHugPt92MrSA)，提取码：bdhi]
+
 ## ✈ Visual Results
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_1.png" style="width: 80%;"/>
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/visual_2.png" style="width: 80%;"/>
