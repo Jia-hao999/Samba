@@ -17,14 +17,14 @@ Full Samba weights：[[baidu](https://pan.baidu.com/s/15787DVEmW59ftztopv-yMg)�
 ## ✈ Data Preparation
 ### 1. RGB SOD
 For RGB SOD, we employ the following datasets to train our model: the training set of **DUTS** for `RGB SOD`. 
-For testing the RGB SOD task, we use **DUTS**, **ECSSD**, **HKU-IS**, **PASCAL-S**, **DUT-O**.
+For testing the RGB SOD task, we use **DUTS**, **ECSSD**, **HKU-IS**, **PASCAL-S**, **DUT-O**. [[baidu](https://pan.baidu.com/s/1oljb1_kkUH7rhWZCy8ic4g)，提取码：x7kn]
 
 ### 2. RGB-D SOD
 For RGB-D SOD, we employ the following datasets to train our model concurrently: the training sets of **NJU2K**, **NLPR**, **DUT-RGBD** for `RGB-D SOD`. 
-For testing the RGB SOD task, we use **NJU2K**, **NLPR**, **DUT-RGBD**, **SIP**, **STERE**.
+For testing the RGB SOD task, we use **NJU2K**, **NLPR**, **DUT-RGBD**, **SIP**, **STERE**. [[baidu](https://pan.baidu.com/s/1ibrO3CS7rn7bJUAy8hM9mQ)，提取码：8b9c]
 
 ### 3. RGB-T SOD
-For RGB-T SOD, we employ the training set of **VT5000** to train our model, and the testing of **VT5000**, **VT821**, **VT1000** are utilized for testing.
+For RGB-T SOD, we employ the training set of **VT5000** to train our model, and the testing of **VT5000**, **VT821**, **VT1000** are utilized for testing. [[baidu](https://pan.baidu.com/s/1PKW5d_Yr5NFEnq9Q82HitA)，提取码：xhrm]
 
 ### 4. VSOD
 For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to train our model concurrently, and the testing of **DAVIS**, **DAVSOD**, **FBMS**, **Seg-V2**, **VOS** are utilized for testing.
