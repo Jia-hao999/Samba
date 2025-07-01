@@ -27,10 +27,10 @@ For testing the RGB SOD task, we use **NJU2K**, **NLPR**, **DUT-RGBD**, **SIP**,
 For RGB-T SOD, we employ the training set of **VT5000** to train our model, and the testing of **VT5000**, **VT821**, **VT1000** are utilized for testing. [[baidu](https://pan.baidu.com/s/1PKW5d_Yr5NFEnq9Q82HitA)，提取码：xhrm]
 
 ### 4. VSOD
-For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to train our model concurrently, and the testing of **DAVIS**, **DAVSOD**, **FBMS**, **Seg-V2**, **VOS** are utilized for testing.
+For VSOD, we employ the training sets of **DAVIS**, **DAVSOD**, **FBMS** to train our model concurrently, and the testing of **DAVIS**, **DAVSOD**, **FBMS**, **Seg-V2**, **VOS** are utilized for testing. [[baidu](https://pan.baidu.com/s/1zQ-vuDnSfRzJ1T_T-hh7sA)，提取码：kcmu]
 
 ### 5. RGB-D VSOD
-For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually.
+For RGB-D VSOD, we employ the training sets of **RDVS**, **DVisal**, **Vidsod_100** to train our model individually, and the testing of **RDVS**, **DVisal**, **Vidsod_100** are utilized for testing individually. [[baidu](https://pan.baidu.com/s/1VRL3jk7AsQCkL26hwg1rZA)，提取码：q9ty]
 
 ## ✈ Prediction
 All evaluated saliency maps are put here：[[baidu](https://pan.baidu.com/s/1NA9_ZtA_M4WHugPt92MrSA)，提取码：bdhi]
