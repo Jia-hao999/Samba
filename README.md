@@ -45,9 +45,12 @@ All evaluated saliency maps are put here：[[baidu](https://pan.baidu.com/s/1NA9
 ## ✈ Citation
 If you use Samba in your research or wish to refer our work, please use the following BibTeX entry.
 ```
-@article{he2025samba,
-  title={Samba: A Unified Mamba-based Framework for General Salient Object Detection},
-  author={Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao},
-  year={2025}
+@InProceedings{He_2025_CVPR,
+    author    = {He, Jiahao and Fu, Keren and Liu, Xiaohong and Zhao, Qijun},
+    title     = {Samba: A Unified Mamba-based Framework for General Salient Object Detection},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {25314-25324}
 }
 ```
