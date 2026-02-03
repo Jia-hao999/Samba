@@ -1,14 +1,14 @@
 # [CVPR 2025-Highlight] Samba: A Unified Mamba-based Framework for General Salient Object Detection [[PDF]](https://www.kerenfu.top/sources/CVPR2025_Samba.pdf)|[[中文版]](https://github.com/Jia-hao999/Samba/blob/main/CVPR2025_Samba_Chinese.pdf)
-Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao<br />
+
+## 🔥 News 
+The extension work of Samba (Samba+: General and Accurate Salient Object Detection via a More Unified Mamba-based Framework) has been released. The codes, models, and results can be found in the [[repository](https://github.com/wz-zhao/Samba-plus)].
+
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/intro_1.png" style="width: 80%;"/>
 
 ## ✈ Overview
 We are the first to adapt state space models to SOD tasks, and propose a novel unified framework based on the pure Mamba architecture to flexibly handle general SOD tasks. We propose a saliency-guided Mamba block (SGMB), incorporating a spatial neighboring scanning (SNS) algorithm, to maintain spatial continuity of salient patches, thus enhancing feature representation. We propose a context-aware upsampling (CAU) method to promote hierarchical feature alignment and aggregations by modeling contextual dependencies.
 
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/overview.png">
-
-## 🔥 News 
-The extension work of Samba (Samba+: General and Accurate Salient Object Detection via a More Unified Mamba-based Framework) has been released. The codes, models, and results can be found in the [[repository](https://github.com/wz-zhao/Samba-plus)].
 
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
