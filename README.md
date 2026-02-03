@@ -8,7 +8,7 @@ We are the first to adapt state space models to SOD tasks, and propose a novel u
 <img src="https://github.com/Jia-hao999/Samba/blob/main/Figure/overview.png">
 
 ## 🔥 News 
-The extension work of Samba (Samba+) has been released. The codes, models, and results can be found in the [[repository](https://github.com/wz-zhao/Samba-plus)].
+The extension work of Samba (Samba+: General and Accurate Salient Object Detection via a More Unified Mamba-based Framework) has been released. The codes, models, and results can be found in the [[repository](https://github.com/wz-zhao/Samba-plus)].
 
 ## ✈ Environmental Setups
 `PyTorch 1.13.1 + CUDA 11.7`. Please install corresponding PyTorch and CUDA versions.
