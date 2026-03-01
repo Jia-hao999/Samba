@@ -15,7 +15,7 @@ We are the first to adapt state space models to SOD tasks, and propose a novel u
 
 VMamba-S backbone weights：[[baidu](https://pan.baidu.com/s/1SaEV237VCzSEn558gEBiXg)，提取码：zsxa]
 
-Full Samba weights：[[baidu](https://pan.baidu.com/s/15787DVEmW59ftztopv-yMg)，提取码：bkvw]
+Full Samba weights：[[baidu](https://pan.baidu.com/s/15787DVEmW59ftztopv-yMg)，提取码：bkvw] [[google](https://drive.google.com/drive/folders/1SdxeZRl6iI4bCBypOQbG1Q5T-Jo-zKGR)]
 
 ## ✈ Data Preparation
 ### 1. RGB SOD
